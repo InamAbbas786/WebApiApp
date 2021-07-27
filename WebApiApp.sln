@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PMS.Core.DbHelper.App", "PMS.Core.DbHelper.App\PMS.Core.DbHelper.App.csproj", "{2DC84A43-64C3-41FD-8D89-A7B294217498}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PMS.WebApi", "PMS.WebApi\PMS.WebApi.csproj", "{6B9EA23C-2A05-4781-B930-DDC6334F5254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2DC84A43-64C3-41FD-8D89-A7B294217498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC84A43-64C3-41FD-8D89-A7B294217498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC84A43-64C3-41FD-8D89-A7B294217498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC84A43-64C3-41FD-8D89-A7B294217498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B9EA23C-2A05-4781-B930-DDC6334F5254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B9EA23C-2A05-4781-B930-DDC6334F5254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B9EA23C-2A05-4781-B930-DDC6334F5254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B9EA23C-2A05-4781-B930-DDC6334F5254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {840B6A1A-0D4A-4270-A641-3ABAA76ADB81}
+	EndGlobalSection
+EndGlobal
